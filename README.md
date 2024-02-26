@@ -1,3 +1,16 @@
+# Next.js Demo App
+
+This is a simple demo application built with Next.js, created for the purpose of learning and exploring the features of Next.js.
+
+## Overview
+The app allows users to perform searches using a search term. It leverages the Wikipedia API to fetch search results and display them on the page. Each search result is presented in a clean and minimalistic format, providing users with relevant information.
+
+## Features
+- **Server-Side Rendering (SSR):** Utilizes Next.js for server-side rendering to enhance performance and SEO.
+- **Dynamic Routes:** Implements dynamic routing to handle different search terms seamlessly.
+- **API Integration:** Connects to the Wikipedia API to retrieve search results based on user input.
+- **Responsive Design:** Adopts a responsive design using Tailwind CSS to ensure a consistent user experience across devices.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
